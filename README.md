@@ -3,8 +3,7 @@ XML-RPC client and server for Erlang
 
 This is an HTTP 1.1 compliant XML-RPC library for Erlang. It is
 designed to make it easy to write XML-RPC Erlang clients and/or
-servers. The library is compliant with the XML-RPC specification
-published by http://www.xmlrpc.org/.
+servers.
 
 Prior to using this library you need a recent installation of Erlang.
 Get it at http://www.erlang.org/.
@@ -15,8 +14,6 @@ examples/ directory.
 
 Run 'make docs' to get edoc-generated HTML documentation under doc/.
 
-Get the latest version of this library at https://github.com/etnt/xmlrpc.
+Get the latest version of this library at https://github.com/hadrielwonda/xmlrpcjob.
 
-The original author of this library was Joakim Grebenö. It is
-currently maintained by Torbjörn Törnkvist. Send questions and/or
-suggestions to etnt@redhoterlang.com.
+Suggestions and inquiries olawalebash2017@gmail.com
