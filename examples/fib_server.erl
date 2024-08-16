@@ -2,7 +2,7 @@
 -export([handler/2]).
 
 %%
-%% A server which calculates Fibonacci values.
+%% A server which calculates Fibonacci values based of the sequence.
 %%
 
 handler(_State, {call, fib, [N]}) when integer(N) ->

@@ -3,7 +3,7 @@ fault-tolerant banking server in Erlang:
 
 http://www.sics.se/~joe/tutorials/robust_server/robust_server.html 
 
-You *should* read Joe's tutorial before you go any further. You have
+You *NEED TO ABSOLUTELY* read Joe's tutorial before you go any further. You have
 been warned!
 
 1 A fault-tolerant banking server using XML-RPC
